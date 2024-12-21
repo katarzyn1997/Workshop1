@@ -8,8 +8,8 @@ public class TaskManager {
 
     }
 
-    public static void showAllUserOption(){
-        System.out.println(BLUE + "test" + RESET);
+    public static void showAllUserOption(String[] arr){
+        System.out.println(BLUE + "Please select an option: " + RESET);
 
     }
 }
